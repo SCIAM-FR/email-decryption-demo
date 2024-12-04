@@ -1,0 +1,6 @@
+# Dépendances Crypto
+cryptography>43
+asn1crypto
+
+# Dépendances Jupyter
+jupyter
