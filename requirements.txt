@@ -1,6 +1,7 @@
 # Dépendances Crypto
 cryptography>43
 asn1crypto
+endesive
 
 # Dépendances Jupyter
 jupyter
